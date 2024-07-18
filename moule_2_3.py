@@ -7,14 +7,4 @@ while index < len(my_list):
     index += 1
 
 
-#numbers = [1, 2, 3, 4, 5]
-#index = 0
-#while index < len(numbers):
- #   if numbers[index] == 3:
-  #      break
-   # print(numbers[index])
-    #index += 1
-
-
-#x = (my_list[0:len(my_list):1])
 
